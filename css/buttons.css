@@ -1,0 +1,7 @@
+.tlt-button {
+    background-color: var(--color-primary);
+}
+
+.tlt-button--secondary {
+    background-color: var(--color-secondary);
+}
