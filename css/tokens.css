@@ -1,0 +1,10 @@
+root {
+  /* Theme colors */
+    --color-primary: #0077BB;
+    --color-secondary: ##8685EF;
+
+  /* Gray Scale */
+    --color-white: #ffffff;
+    --color-gray: #C1C1C1;
+    --color-black: #000000;
+}
